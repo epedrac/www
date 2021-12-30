@@ -1,7 +1,11 @@
 main:
-  - title: "AZ propos"
-    url: /about
-  - title: "Contact"
-    url: /contact
+  - title: "Identité"
+    url: /identité
+  - title: "Nous trouver"
+    url: /venir
+  - title: "Ressources"
+    url: /ressources
+  - title: "Activités"
+    url: /activités
   - title: "Contact"
     url: /contact
