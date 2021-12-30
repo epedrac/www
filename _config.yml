@@ -23,7 +23,7 @@ email: contact@epe-drac.fr
 description: >- # this means to ignore newlines until "baseurl:"
   TODO, description de l'eglise
   sur plusieurs lignes
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/www" # the subpath of your site, e.g. /blog
 url: "https://www3.epe-drac.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: epedrac
 github_username:  epedrac
