@@ -4,4 +4,4 @@ title: Responsables
 permalink: /identité/responsables
 ---
 
-## blah qui...
+Pour contacter les responsables de l’église : [contact@epe-drac.fr](mailto:contact@epe-drac.fr?subject=Bonjour%20Je%20vous%20contacte%20depuis%20votre%20site%20internet)
