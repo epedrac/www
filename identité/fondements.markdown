@@ -4,7 +4,7 @@ title: Fondements
 permalink: /identité/fondements
 ---
 
-Le contenu de la foi, plus que toute considération historique, sociologique, etc. constitue le patrimoine commun des évangéliques. Ainsi même si les évangéliques s’ils sont répartis en plusieurs organisations et se présentent sous différentes dénominations, ils ont en commun un grand nombre de convictions essentielles fondées sur la Bible.
+Le contenu de la foi, plus que toute considération historique, sociologique, etc. constitue le patrimoine commun des évangéliques. Ainsi même si les évangéliques sont répartis en plusieurs organisations et se présentent sous différentes dénominations, ils ont en commun un grand nombre de convictions essentielles fondées sur la Bible.
 
 Cette foi évangélique n’est pas une innovation récente. Elle remonte aux origines du christianisme, lui-même issu de l’enseignement de Jésus de Nazareth. Les évangéliques pourraient faire leurs ces mots du réformateur Martin Luther, il y a cinq siècles : "Nous n’enseignons pas des choses nouvelles, mais nous répétons et réaffirmons les vérités anciennes, celles que les apôtres et les docteurs pieux ont enseignées avant nous".
 
@@ -20,4 +20,4 @@ Les 4 grandes convictions chrétiennes évangéliques sont :
 
 4. L’universalité du message de l’Évangile : pour les chrétiens évangéliques, celui-ci concerne tous les hommes. Ils estiment de leur responsabilité de le faire connaître autour d’eux, tout en respectant la liberté de chacun.
 
-Si vous désirez aller plus loin sur ces questions, [vous trouverez ici des réponses à vos questions](http://www.lecnef.org/ce-qu-ils-croient) .
+Si vous désirez aller plus loin sur ces questions, [vous trouverez ici des réponses à vos questions](https://www.lecnef.org/page/445845-ce-qu-ils-croient) .
