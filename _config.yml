@@ -21,8 +21,9 @@
 title: Eglise Protestante Evangélique du DRAC
 email: contact@epe-drac.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  TODO, description de l'eglise
-  sur plusieurs lignes
+  L'eglise évangélique du DRAC existe depuis 1998 et est située dans le centre ville, au sein de la presqu'île scientifique.
+  Dynamique, de nombreux temps sont proposés pour permettre de passer du temps avec Dieu, mieux le connaître.
+  Nous sommes situés au 163 cours berriat.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www3.epe-drac.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: epedrac
