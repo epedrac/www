@@ -5,10 +5,10 @@ permalink: /ressources
 ---
 
 ## Messages
-...
+Tous nos messages sont enregistrés, vous pouvez <a href="https://podcast.ausha.co/podcast-predications-de-l-eglise-de-l-eped/" target="_blank">les retrouver ici</a>
 
 ## Vidéos
-Notre [chaine youtube](https://www.youtube.com/@epedvideos8606)
+Notre <a href="https://www.youtube.com/@epedvideos8606" target="_blank">chaine youtube</a>
 
 ## Découvrir la bible
 

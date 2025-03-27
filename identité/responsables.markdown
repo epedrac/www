@@ -3,8 +3,7 @@ layout: single
 title: Responsables
 permalink: /identité/responsables
 ---
-Le groupe des responsables est actuellement constitué de plusieurs personnes et se réuni régulièrement pour collaborer autour des différents aspects de la vie d'église.
-Il est constitué de :
+Le groupe des responsables se réunit régulièrement. Il est constitué de :
 
 - Suzanne C
 - François K
