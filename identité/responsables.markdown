@@ -7,7 +7,7 @@ Le groupe des responsables se réunit régulièrement. Il est constitué de :
 
 - Suzanne C
 - François K
-- Eric S
+- Omar U
 - Xavier R
 - Gilles P
 
