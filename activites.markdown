@@ -13,10 +13,12 @@ Nous passons également un temps pour écouter ce que Dieu nous dit aujourd’hu
 
 Tous les quinze jours, nous nous retrouvons par secteur géographique chez quelqu'un partager autours d’un sujet de la Bible, mais aussi pour prier les uns pour les autres. Nous pouvons ainsi vivre le soutien mutuel en étant proche les uns des autres.
 
-![image info](./images/gbm.png)
+![Nos groupes de maison](./images/gbm.png)
 
 ## Explora-bible et Jeunesse
 
 Côté jeunesse nous proposons chaque dimanche un temps à part pendant le temps de prédication où les enfants se retrouvent par groupes d’âges afin d’approfondir les histoires de la Bible.
 Nous proposons aussi une garderie pour les enfants de 0 à 3 ans afin que leurs parents puissent suivrent plus facilement le message apporté sur la Bible ce jour là.
 Les 15-20 ans se retrouvent aussi régulièrement avec des jeunes d'autres églises de l'agglomération.
+
+![Vivre un culte](/images/photo_culte.jpg)
