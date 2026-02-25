@@ -1,3 +1,5 @@
+![Association EPED](/images/eped_s.png)
+
 Bienvenue à l’église protestante évangélique du Drac.
 
 L’église est prête à vous accueillir tel que vous êtes, afin que vous puissiez découvrir qui est Dieu au travers de la Bible et de rencontres conviviales.
