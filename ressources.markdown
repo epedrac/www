@@ -14,5 +14,3 @@ Notre eglise fait partie du CNEF : <a href="https://www.lecnef.org" target="_bla
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pYYIYRhlVoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-![Vivre un culte](/images/photo_culte.jpg)
