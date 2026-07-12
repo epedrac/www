@@ -13,4 +13,4 @@ Nous sommes constitués en association cultuelle auprès de la Préfecture de l�
 
 L’église est rattachée à l’union d’églises qui s’appelle les CAEF, [Communautés et Assemblées Evangéliques de France](https://www.caef.net/). Elle est membre du Réseau FEF, [Réseau Fraternel Evangélique Français](http://www.reseaufef.com/) et du CNEF, [Conseil National des Evangéliques de France](https://www.lecnef.org)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fu1rDdd7wlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nNN1DRPvTpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
