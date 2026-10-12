@@ -1,0 +1,238 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+/* Fond ivoire chaleureux, contenu présenté sur une carte blanche */
+$background-color: #f7f4ee;
+$footer-background-color: #efe9df;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Pas de barre latérale : le contenu occupe toute la largeur sur ordinateur */
+@include breakpoint($large) {
+  .page {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+  }
+}
+
+#main {
+  max-width: 1280px;
+}
+
+/* Carte blanche autour du contenu */
+.page__inner-wrap {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 1px 2px rgba(60, 50, 30, .06), 0 8px 24px rgba(60, 50, 30, .08);
+  padding: 1.5em 1.25em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+
+  @include breakpoint($medium) {
+    padding: 2.5em 2.5em;
+  }
+}
+
+.masthead {
+  border-bottom-color: #e8e1d4;
+}
+
+/* Encadré « Culte » de la page d'accueil : carte accueillante avec pastille horaire */
+.culte {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.25em 1.75em;
+  margin: 1.5em 0 2em;
+  padding: 1.5em;
+  background: linear-gradient(135deg, #eaf6fc 0%, #f6f1e7 100%);
+  border: 1px solid #dcebf2;
+  border-radius: 14px;
+
+  p {
+    margin: 0 0 .45em;
+    font-size: .95em;
+  }
+  i {
+    width: 1.2em;
+    margin-right: .3em;
+    color: #0a7db3;
+    text-align: center;
+  }
+}
+.culte__date {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  width: 7.5em;
+  height: 7.5em;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(10, 125, 179, .15);
+  overflow: hidden;
+  text-align: center;
+}
+.culte__jour {
+  align-self: stretch;
+  padding: .3em 0;
+  background: #0a7db3;
+  color: #fff;
+  font-size: .75em;
+  font-weight: bold;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+.culte__heure {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  font-size: 1.9em;
+  font-weight: bold;
+  color: #1f2d3a;
+}
+.culte__infos {
+  flex: 1 1 18em;
+}
+p.culte__titre {
+  margin-bottom: .6em;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #1f2d3a;
+}
+p.culte__actions {
+  margin: 1em 0 0;
+
+  .btn {
+    margin: 0 .4em .4em 0;
+  }
+  .btn--inverse {
+    background-color: #fff;
+  }
+}
+
+/* Boutons principaux au bleu du logo (assombri pour un texte blanc bien lisible) */
+.btn--primary {
+  background-color: #0a7db3;
+  color: #fff;
+
+  &:hover,
+  &:focus {
+    background-color: #08668f;
+    color: #fff;
+  }
+}
+
+/* Bandeau plus large et menu plus compact : toutes les entrées visibles sur ordinateur */
+@include breakpoint($x-large) {
+  .masthead__inner-wrap {
+    max-width: 1280px;
+  }
+}
+.greedy-nav a {
+  margin: 0 .7rem;
+}
+.greedy-nav .visible-links a {
+  font-size: .95em;
+}
+
+/* Vidéos adaptées à toutes les largeurs d'écran */
+.video-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 800px;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 1.5em;
+
+  iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    border-radius: 8px;
+  }
+}
+
+/* Cartes cliquables (page Identité) */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1em;
+  margin: 1.5em 0;
+}
+.card {
+  display: block;
+  padding: 1.25em 1.25em 1em;
+  background: #faf8f4;
+  border: 1px solid #ebe4d7;
+  border-radius: 10px;
+  color: inherit;
+  text-decoration: none;
+  transition: box-shadow .15s, transform .15s, border-color .15s;
+
+  &:hover,
+  &:focus {
+    color: inherit;
+    border-color: #0a9ee0;
+    box-shadow: 0 6px 18px rgba(60, 50, 30, .1);
+    transform: translateY(-2px);
+  }
+  strong {
+    display: block;
+    margin-bottom: .3em;
+    color: #0a7db3;
+  }
+  span {
+    font-size: .9em;
+  }
+}
+
+/* Bandeau d'annonce (contenu dans _data/annonce.yml) */
+.annonce {
+  margin: 0 0 1.5em;
+  padding: .9em 1.2em;
+  background: #fff6dd;
+  border: 1px solid #f4d98a;
+  border-left: 4px solid #f5a800;
+  border-radius: 8px;
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* Pied de page */
+.footer-eped {
+  font-size: .85em;
+  line-height: 1.6;
+
+  p {
+    margin: 0 0 .8em;
+  }
+  a {
+    color: inherit;
+  }
+  .footer-eped__social a {
+    margin-right: 1.2em;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .footer-eped__copy {
+    color: #8a8580;
+    font-size: .9em;
+  }
+}
+
+/* Taille de texte plus mesurée (le thème monte jusqu'à 22px sur grand écran) */
+html {
+  @include breakpoint($medium) { font-size: 16px; }
+  @include breakpoint($large) { font-size: 17px; }
+  @include breakpoint($x-large) { font-size: 18px; }
+}

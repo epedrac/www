@@ -1,8 +1,13 @@
 ---
 layout: single
-title: Fondements
-permalink: /identité/fondements
+title: "Nos fondements : la foi évangélique"
+excerpt: "Les convictions de la foi protestante évangélique : la Bible Parole de Dieu, la croix et la résurrection de Jésus-Christ, la conversion personnelle, l'Évangile pour tous."
+permalink: /identite/fondements/
+redirect_from:
+  - /identité/fondements
+  - /identité/fondements.html
 ---
+
 
 Le contenu de la foi, plus que toute considération historique, sociologique, etc. constitue le patrimoine commun des évangéliques. Ainsi même si les évangéliques sont répartis en plusieurs organisations et se présentent sous différentes dénominations, ils ont en commun un grand nombre de convictions essentielles fondées sur la Bible.
 
@@ -20,4 +25,4 @@ Les 4 grandes convictions chrétiennes évangéliques sont :
 
 4. L’universalité du message de l’Évangile : pour les chrétiens évangéliques, celui-ci concerne tous les hommes. Ils estiment de leur responsabilité de le faire connaître autour d’eux, tout en respectant la liberté de chacun.
 
-Si vous désirez aller plus loin sur ces questions, [vous trouverez ici des réponses à vos questions](https://www.lecnef.org/page/445845-ce-qu-ils-croient) .
+Pour aller plus loin sur ces questions, [vous trouverez ici des réponses](https://www.lecnef.org/page/445845-ce-qu-ils-croient) .

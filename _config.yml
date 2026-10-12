@@ -18,18 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eglise Protestante Evangélique du DRAC
+title: "EPED Grenoble"
+masthead_title: "EPED · Église évangélique à Grenoble"
+title_separator: "-"
+name: "Église protestante évangélique du Drac"
 email: contact@epe-drac.fr
-description: >- # this means to ignore newlines until "baseurl:"
-  L'eglise évangélique du DRAC existe depuis 1998 et est située dans le centre ville, au sein de la presqu'île scientifique.
-  Dynamique, de nombreux temps sont proposés pour permettre de passer du temps avec Dieu, mieux le connaître.
-  Nous sommes situés au 163 cours berriat.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www3.epe-drac.fr" # the base hostname & protocol for your site, e.g. http://example.com
+description: >-
+  Église protestante évangélique à Grenoble (EPED), 163 cours Berriat, tram A
+  Berriat - Le Magasin. Culte chaque dimanche à 10h15, accueil des enfants,
+  groupes de maison dans toute l'agglomération grenobloise.
+baseurl: ""
+url: "https://www.epe-drac.fr"
+logo: "/images/eped_fs.png"
+og_image: "/images/eped-culte-grenoble-og.jpg"
 twitter_username: epedrac
 github_username: epedrac
 facebook_username: egliseProtestanteEvangeliqueDuDrac
-meta: Powered by Open Source CMS.
+social:
+  type: Organization
+  name: "Église protestante évangélique du Drac"
+  links:
+    - "https://www.instagram.com/eped.gre"
+    - "https://www.facebook.com/egliseProtestanteEvangeliqueDuDrac"
+    - "https://podcast.ausha.co/podcast-predications-de-l-eglise-de-l-eped/"
+# Codes de vérification à renseigner après inscription (voir SEO.md)
+google_site_verification:
+bing_site_verification:
+atom_feed:
+  hide: true
 # Build settings
 # theme: minima
 # theme: minimal-mistakes-jekyll
@@ -37,6 +53,8 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -73,3 +91,12 @@ defaults:
       # share: true
       related: true
 date_format: "%d-%m-%Y"
+exclude:
+  - _layouts.old/
+  - _posts_bak/
+  - myblog/
+  - Gemfile
+  - Gemfile.lock
+  - Gemfile.lock.bak
+  - README.md
+  - SEO.md

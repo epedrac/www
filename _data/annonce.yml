@@ -1,0 +1,6 @@
+# Bandeau d'annonce affiché en haut de la page d'accueil.
+# Pour l'afficher : actif: true. Pour le masquer : actif: false.
+# Le texte accepte le Markdown (**gras**, [lien](https://...), retours à la ligne avec "|").
+actif: false
+texte: |
+  **Horaires d'été :** en juillet et août, le culte a lieu à 9h30.

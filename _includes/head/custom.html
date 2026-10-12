@@ -1,0 +1,76 @@
+<!-- Favicons / icônes iPhone -->
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
+<link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+<meta name="theme-color" content="#0a9ee0">
+<meta name="apple-mobile-web-app-title" content="EPED Grenoble">
+
+<!-- Référencement local -->
+<meta name="geo.region" content="FR-38">
+<meta name="geo.placename" content="Grenoble">
+<meta name="geo.position" content="45.18859;5.70324">
+<meta name="ICBM" content="45.18859, 5.70324">
+
+<!-- Données structurées : l'église (Google, Apple, Bing/ChatGPT) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Church",
+  "@id": "{{ site.url }}/#eglise",
+  "name": "Église protestante évangélique du Drac",
+  "alternateName": ["EPED", "Église évangélique du Drac", "EPE Drac", "Église évangélique Grenoble Berriat"],
+  "description": "Église protestante évangélique à Grenoble, quartier Berriat, fondée en 1998. Culte chaque dimanche à 10h15, programme pour les enfants, garderie 0-3 ans, groupes de maison dans l'agglomération grenobloise (Grenoble centre, Berges du Drac, Grésivaudan, Pays Voironnais). Membre des CAEF, du Réseau FEF et du CNEF.",
+  "url": "{{ site.url }}/",
+  "logo": "{{ site.url }}/images/eped_fs.png",
+  "image": "{{ site.url }}/images/eped-culte-grenoble-og.jpg",
+  "email": "contact@epe-drac.fr",
+  "telephone": "+33 6 52 97 79 88",
+  "foundingDate": "1998",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "163 cours Berriat",
+    "addressLocality": "Grenoble",
+    "postalCode": "38000",
+    "addressRegion": "Auvergne-Rhône-Alpes",
+    "addressCountry": "FR"
+  },
+  "geo": { "@type": "GeoCoordinates", "latitude": 45.18859, "longitude": 5.70324 },
+  "hasMap": "https://www.google.com/maps?cid=1842606693319769157",
+  "areaServed": [
+    "Grenoble", "Grenoble-Alpes Métropole", "Fontaine", "Seyssinet-Pariset", "Seyssins",
+    "Sassenage", "Saint-Égrève", "Échirolles", "Saint-Martin-d'Hères", "Meylan",
+    "Eybens", "Le Pont-de-Claix", "Grésivaudan", "Pays Voironnais", "Voiron", "Isère"
+  ],
+  "publicAccess": true,
+  "isAccessibleForFree": true,
+  "knowsLanguage": "fr",
+  "event": {
+    "@type": "Event",
+    "name": "Culte du dimanche - Église évangélique du Drac",
+    "description": "Culte ouvert à tous : chants, prière et message biblique. Programme pour les enfants (Explora-bible) et garderie 0-3 ans.",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "isAccessibleForFree": true,
+    "eventSchedule": {
+      "@type": "Schedule",
+      "byDay": "https://schema.org/Sunday",
+      "startTime": "10:15",
+      "repeatFrequency": "P1W",
+      "scheduleTimezone": "Europe/Paris"
+    },
+    "location": { "@id": "{{ site.url }}/#eglise" },
+    "organizer": { "@id": "{{ site.url }}/#eglise" }
+  },
+  "memberOf": [
+    { "@type": "Organization", "name": "CAEF - Communautés et Assemblées Évangéliques de France", "url": "https://www.caef.net/" },
+    { "@type": "Organization", "name": "Réseau FEF - Réseau Fraternel Évangélique Français", "url": "https://reseaufef.com/" },
+    { "@type": "Organization", "name": "CNEF - Conseil National des Évangéliques de France", "url": "https://www.lecnef.org/" }
+  ],
+  "sameAs": [
+    "https://www.instagram.com/eped.gre",
+    "https://www.facebook.com/egliseProtestanteEvangeliqueDuDrac",
+    "https://podcast.ausha.co/podcast-predications-de-l-eglise-de-l-eped/"
+  ]
+}
+</script>

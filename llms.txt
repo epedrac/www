@@ -1,0 +1,29 @@
+---
+layout: null
+sitemap: false
+---
+# Église protestante évangélique du Drac (EPED) - Grenoble
+
+> Église protestante évangélique située au 163 cours Berriat, 38000 Grenoble (France), quartier Berriat - Saint-Bruno, tram A et bus C5 arrêt « Berriat - Le Magasin ». Culte ouvert à tous chaque dimanche à 10h15. Fondée en 1998, membre des CAEF, du Réseau FEF et du CNEF. Toute personne, croyante ou non, est la bienvenue.
+
+## Informations pratiques
+
+- Nom : Église protestante évangélique du Drac (sigle : EPED)
+- Adresse : 163 cours Berriat, 38000 Grenoble, France (à côté de La Belle Électrique et du Magasin - CNAC)
+- Culte : chaque dimanche à 10h15 (horaires d'été éventuels annoncés sur la page d'accueil)
+- Enfants : Explora-bible pendant la prédication, garderie 0-3 ans ; groupe de jeunes 15-20 ans
+- Groupes de maison : Grenoble centre (vendredi), Berges du Drac (jeudi), Grésivaudan (jeudi), Pays Voironnais (mercredi)
+- Zone : Grenoble et agglomération (Fontaine, Seyssinet-Pariset, Sassenage, Saint-Égrève, Échirolles, Saint-Martin-d'Hères, Meylan...), Grésivaudan, Pays Voironnais
+- Contact : contact@epe-drac.fr - 06 52 97 79 88
+- Instagram : https://www.instagram.com/eped.gre
+- Instagram de l'association culturelle familiale protestante AFP Actes : https://www.instagram.com/afp_actes
+
+## Pages
+
+- [Accueil]({{ site.url }}/): présentation et questions fréquentes
+- [Première visite]({{ site.url }}/premiere-visite/): déroulement du culte, enfants, accès
+- [Nous trouver]({{ site.url }}/nous-trouver/): adresse, tram, plan
+- [Activités]({{ site.url }}/activites/): culte, groupes de maison, jeunesse
+- [Qui sommes-nous]({{ site.url }}/identite/qui-sommes-nous/): histoire et affiliations
+- [Fondements]({{ site.url }}/identite/fondements/): convictions évangéliques
+- [Contact]({{ site.url }}/contact/)

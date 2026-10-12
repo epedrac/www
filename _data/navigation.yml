@@ -1,11 +1,13 @@
 main:
-  - title: "Identité"
-    url: /identité
+  - title: "Première visite"
+    url: /premiere-visite/
   - title: "Nous trouver"
-    url: /venir
-  - title: "Ressources"
-    url: /ressources
+    url: /nous-trouver/
   - title: "Activités"
-    url: /activités
+    url: /activites/
+  - title: "Identité"
+    url: /identite/
+  - title: "Ressources"
+    url: /ressources/
   - title: "Contact"
-    url: /contact
+    url: /contact/

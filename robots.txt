@@ -1,0 +1,10 @@
+---
+layout: null
+sitemap: false
+---
+# Tous les robots sont les bienvenus, y compris les moteurs IA
+# (Google, Bing, Apple/Siri, ChatGPT, Perplexity, Claude...)
+User-agent: *
+Allow: /
+
+Sitemap: {{ site.url }}/sitemap.xml
