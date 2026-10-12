@@ -37,7 +37,7 @@ Que vous soyez chrétien depuis longtemps, en recherche, curieux de découvrir l
 
 ## Une église dans l'agglomération grenobloise
 
-Nos membres viennent de **Grenoble** et de toute la métropole : Fontaine, Sassenage, Saint-Égrève, Gières, Noyarey… mais aussi du **Grésivaudan** avec Crolles et du **Pays Voironnais** avec Coublevie, Saint-Jean-de-Moirans... En semaine, nous nous retrouvons en [groupes de maison](/activites/#groupes-de-maison).
+Nos membres viennent de **Grenoble** et de toute la métropole : Fontaine, Sassenage, Saint-Égrève, Gières, Noyarey… mais aussi du **Grésivaudan** avec Crolles, Meylan et Saint-Ismier et du **Pays Voironnais** avec Coublevie, Voreppe, Saint-Jean-de-Moirans... En semaine, nous nous retrouvons en [groupes de maison](/activites/#groupes-de-maison).
 
 ## Ce que nous vivons ensemble
 

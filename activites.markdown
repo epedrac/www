@@ -23,8 +23,8 @@ Vous venez pour la première fois ? [Tout ce qu'il faut savoir](/premiere-visite
 Tous les quinze jours, nous nous retrouvons par secteur géographique chez quelqu'un pour partager autour d'un sujet de la Bible, mais aussi pour prier les uns pour les autres. Nous pouvons ainsi vivre le soutien mutuel en étant proches les uns des autres.
 
 - **Grenoble centre** : le vendredi
-- **Berges du Drac** (Fontaine, Seyssinet-Pariset, Sassenage…) : le jeudi
-- **Grésivaudan** (Meylan, Montbonnot, Crolles…) : le jeudi
+- **Berges du Drac** (Fontaine, Sassenage…) : le jeudi
+- **Grésivaudan** (Saint-Ismier, Montbonnot, Crolles…) : le jeudi
 - **Pays Voironnais** (Voiron, Voreppe, Moirans…) : le mercredi
 
 Pour rejoindre un groupe, [contactez-nous](/contact/).
