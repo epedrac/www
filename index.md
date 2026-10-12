@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Église protestante évangélique du Drac à Grenoble"
+title: "Bienvenue"
 excerpt: "Église protestante évangélique au centre de Grenoble (163 cours Berriat, tram A Berriat - Le Magasin). Culte chaque dimanche à 10h15, enfants bienvenus, groupes de maison dans toute l'agglomération."
 permalink: /
 redirect_from:
@@ -12,8 +12,6 @@ header:
 {% if site.data.annonce.actif %}
 <div class="annonce">{{ site.data.annonce.texte | markdownify }}</div>
 {% endif %}
-
-## Bienvenue !
 
 L'**Église protestante évangélique du Drac (EPED)** est une église évangélique située **à Grenoble, 163 cours Berriat**, à deux pas de l'arrêt de tram A *Berriat - Le Magasin*.
 
