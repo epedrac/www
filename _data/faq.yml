@@ -1,0 +1,19 @@
+# Questions fréquentes de la page d'accueil.
+# Elles sont affichées sur la page ET transmises à Google, Bing et aux IA
+# (données structurées FAQPage) : modifier ici, jamais dans index.md.
+# Les réponses acceptent le Markdown.
+- question: "Où trouver une église évangélique à Grenoble ?"
+  reponse: |-
+    L'Église protestante évangélique du Drac se trouve au 163 cours Berriat, 38000 Grenoble, dans le quartier Berriat - Saint-Bruno, accessible en tram A (arrêt *Berriat - Le Magasin*).
+- question: "À quelle heure est le culte ?"
+  reponse: |-
+    Chaque dimanche à 10h15. Les horaires peuvent changer pendant l'été : ils sont indiqués sur cette page et sur notre [Instagram](https://www.instagram.com/eped.gre) (ainsi que les activités de l'association familiale protestante sur [@afp_actes](https://www.instagram.com/afp_actes)).
+- question: "Faut-il être chrétien ou s'inscrire pour venir ?"
+  reponse: |-
+    Non. Tout le monde est le bienvenu. Vous pouvez venir simplement pour découvrir.
+- question: "Peut-on venir avec des enfants ?"
+  reponse: |-
+    Oui ! Les enfants ont un temps adapté à leur âge pendant la prédication (Explora-bible) et une garderie accueille les 0-3 ans.
+- question: "Comment contacter l'EPED ?"
+  reponse: |-
+    Par e-mail à [contact@epe-drac.fr](mailto:contact@epe-drac.fr) ou par téléphone au [06 52 97 79 88](tel:+33652977988).

@@ -12,4 +12,4 @@ Une question sur l'église, sur la foi chrétienne ?
 - **Téléphone** : [06 52 97 79 88](tel:+33652977988)
 - **Adresse** : [163 cours Berriat, 38000 Grenoble](/nous-trouver/)
 - **Culte** : chaque dimanche à 10h15
-- **Instagram** : [@eped.gre](https://www.instagram.com/eped.gre) (église) et [@afp_actes](https://www.instagram.com/afp_actes) (association fammiliale protestante AFP Actes)
+- **Instagram** : [@eped.gre](https://www.instagram.com/eped.gre) (église) et [@afp_actes](https://www.instagram.com/afp_actes) (association familiale protestante AFP Actes)

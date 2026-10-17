@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Bienvenue"
+seo_title: "Église évangélique - Grenoble (Berriat) – EPED"
 excerpt: "Église protestante évangélique au centre de Grenoble (163 cours Berriat, tram A Berriat - Le Magasin). Culte chaque dimanche à 10h15, enfants bienvenus, groupes de maison dans toute l'agglomération."
 permalink: /
 redirect_from:
@@ -54,25 +55,11 @@ Fondée en 1998 et installée dans le quartier Berriat depuis 2006, l'EPED est u
 
 ## Questions fréquentes
 
-### Où trouver une église évangélique à Grenoble ?
+{% for q in site.data.faq %}
+### {{ q.question }}
 
-L'Église protestante évangélique du Drac se trouve au 163 cours Berriat, 38000 Grenoble, dans le quartier Berriat - Saint-Bruno, accessible en tram A (arrêt *Berriat - Le Magasin*).
-
-### À quelle heure est le culte ?
-
-Chaque dimanche à 10h15. Les horaires peuvent changer pendant l'été : ils sont indiqués sur cette page et sur notre [Instagram](https://www.instagram.com/eped.gre) (ainsi que les activités de l'association familiale protestante sur [@afp_actes](https://www.instagram.com/afp_actes)).
-
-### Faut-il être chrétien ou s'inscrire pour venir ?
-
-Non. Tout le monde est le bienvenu. Vous pouvez venir simplement pour découvrir.
-
-### Peut-on venir avec des enfants ?
-
-Oui ! Les enfants ont un temps adapté à leur âge pendant la prédication (Explora-bible) et une garderie accueille les 0-3 ans.
-
-### Comment contacter l'EPED ?
-
-Par e-mail à [contact@epe-drac.fr](mailto:contact@epe-drac.fr) ou par téléphone au [06 52 97 79 88](tel:+33652977988).
+{{ q.reponse }}
+{% endfor %}
 
 <iframe title="Plan d'accès à l'Église protestante évangélique du Drac, 163 cours Berriat à Grenoble" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10391.934438959277!2d5.680387320185769!3d45.18674965744407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x199241066814fc45!2s%C3%89glise%20protestante%20%C3%A9vang%C3%A9lique%20du%20DRAC%20(EPED)!5e0!3m2!1sfr!2sfr!4v1669661202715!5m2!1sfr!2sfr" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
