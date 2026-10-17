@@ -2,7 +2,7 @@
 layout: single
 title: "Bienvenue"
 seo_title: "Église évangélique - Grenoble (Berriat) – EPED"
-excerpt: "Église protestante évangélique au centre de Grenoble (163 cours Berriat, tram A Berriat - Le Magasin). Culte chaque dimanche à 10h15, enfants bienvenus, groupes de maison dans toute l'agglomération."
+excerpt: "Église protestante évangélique à Grenoble, 163 cours Berriat (tram A). Culte le dimanche à 10h15, enfants bienvenus, groupes de maison dans l'agglomération."
 permalink: /
 redirect_from:
   - /about/
@@ -34,7 +34,7 @@ Que vous soyez chrétien depuis longtemps, en recherche, curieux de découvrir l
   </div>
 </div>
 
-![Culte du dimanche à l'église évangélique du Drac, Grenoble](/images/photo_culte.jpg)
+![Culte du dimanche à l'église évangélique du Drac, Grenoble](/images/photo_culte.jpg){: width="800" height="533"}
 
 ## Une église dans l'agglomération grenobloise
 

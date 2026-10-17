@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Première visite : venir au culte à Grenoble"
-excerpt: "Vous venez pour la première fois à l'Église protestante évangélique du Drac à Grenoble ? Horaires, accès, enfants, déroulement du culte : tout ce qu'il faut savoir."
+excerpt: "Première visite à l'église évangélique du Drac, à Grenoble ? Horaires, accès, enfants, déroulement du culte : tout ce qu'il faut savoir."
 permalink: /premiere-visite/
 toc: false
 ---

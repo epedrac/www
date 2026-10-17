@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Nos fondements : la foi évangélique"
-excerpt: "Les convictions de la foi protestante évangélique : la Bible Parole de Dieu, la croix et la résurrection de Jésus-Christ, la conversion personnelle, l'Évangile pour tous."
+excerpt: "Les convictions évangéliques : la Bible Parole de Dieu, la croix et la résurrection de Jésus-Christ, la conversion personnelle, l'Évangile pour tous."
 permalink: /identite/fondements/
 redirect_from:
   - /identité/fondements

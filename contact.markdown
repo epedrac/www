@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Contact"
-excerpt: "Contactez l'Église protestante évangélique du Drac à Grenoble : contact@epe-drac.fr ou 06 52 97 79 88. Une question sur la foi, une première visite, un groupe de maison ? Écrivez-nous."
+excerpt: "Contactez l'Église protestante évangélique du Drac à Grenoble : contact@epe-drac.fr ou 06 52 97 79 88. Une question sur la foi, une première visite ?"
 permalink: /contact/
 ---
 

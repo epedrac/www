@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Qui sommes-nous ?"
-excerpt: "L'Église protestante évangélique du Drac (EPED), fondée en 1998, est installée cours Berriat à Grenoble depuis 2006. Membre des CAEF, du Réseau FEF et du CNEF."
+excerpt: "L'EPED, église protestante évangélique fondée en 1998, est installée cours Berriat à Grenoble depuis 2006. Membre des CAEF, du Réseau FEF et du CNEF."
 permalink: /identite/qui-sommes-nous/
 redirect_from:
   - /identité/Qui-sommes-nous
@@ -18,4 +18,4 @@ Nous sommes constitués en association cultuelle auprès de la Préfecture de l�
 
 L’église est rattachée à l’union d’églises qui s’appelle les CAEF, [Communautés et Assemblées Evangéliques de France](https://www.caef.net/). Elle est membre du Réseau FEF, [Réseau Fraternel Evangélique Français](http://www.reseaufef.com/) et du CNEF, [Conseil National des Evangéliques de France](https://www.lecnef.org)
 
-<div class="video-wrap"><iframe title="Présentation de l’Église protestante évangélique du Drac" src="https://www.youtube.com/embed/nNN1DRPvTpI" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-wrap"><iframe title="Protestants évangéliques : de qui parlons-nous ? (CNEF)" src="https://www.youtube.com/embed/nNN1DRPvTpI" loading="lazy" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

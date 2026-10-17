@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Nous trouver : 163 cours Berriat, Grenoble"
-excerpt: "Plan d'accès de l'Église protestante évangélique du Drac : 163 cours Berriat, 38000 Grenoble. Tram A et bus C5 arrêt Berriat - Le Magasin. Culte le dimanche à 10h15."
+excerpt: "Plan d'accès de l'église évangélique du Drac : 163 cours Berriat, 38000 Grenoble. Tram A et bus C5 arrêt Berriat - Le Magasin. Culte le dimanche à 10h15."
 permalink: /nous-trouver/
 redirect_from:
   - /venir

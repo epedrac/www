@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Activités : culte, groupes de maison, enfants et jeunes"
-excerpt: "Culte le dimanche à 10h15, groupes de maison dans l'agglomération grenobloise (Grenoble centre, Berges du Drac, Grésivaudan, Pays Voironnais), Explora-bible pour les enfants, garderie et groupe de jeunes."
+seo_title: "Activités : culte, groupes de maison, jeunesse - EPED Grenoble"
+excerpt: "Culte le dimanche à 10h15, groupes de maison dans l'agglomération grenobloise, Explora-bible pour les enfants, garderie 0-3 ans et groupe de jeunes."
 permalink: /activites/
 redirect_from:
   - /activités
@@ -16,7 +17,7 @@ Nous passons également un temps pour écouter ce que Dieu nous dit aujourd'hui 
 
 Vous venez pour la première fois ? [Tout ce qu'il faut savoir](/premiere-visite/).
 
-![Culte du dimanche à l'Église protestante évangélique du Drac, Grenoble](/images/photo_culte.jpg)
+![Culte du dimanche à l'Église protestante évangélique du Drac, Grenoble](/images/photo_culte.jpg){: width="800" height="533"}
 
 ## Groupes de maison
 
