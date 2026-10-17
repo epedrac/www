@@ -45,23 +45,16 @@
   "publicAccess": true,
   "isAccessibleForFree": true,
   "knowsLanguage": "fr",
-  "event": {
-    "@type": "Event",
-    "name": "Culte du dimanche - Église évangélique du Drac",
-    "description": "Culte ouvert à tous : chants, prière et message biblique. Programme pour les enfants (Explora-bible) et garderie 0-3 ans.",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "isAccessibleForFree": true,
-    "eventSchedule": {
-      "@type": "Schedule",
-      "byDay": "https://schema.org/Sunday",
-      "startTime": "10:15",
-      "repeatFrequency": "P1W",
-      "scheduleTimezone": "Europe/Paris"
-    },
-    "location": { "@id": "{{ site.url }}/#eglise" },
-    "organizer": { "@id": "{{ site.url }}/#eglise" }
-  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "name": "Culte du dimanche",
+      "description": "Culte ouvert à tous : chants, prière et message biblique. Programme pour les enfants (Explora-bible) et garderie 0-3 ans.",
+      "dayOfWeek": "https://schema.org/Sunday",
+      "opens": "10:15",
+      "closes": "12:00"
+    }
+  ],
   "memberOf": [
     { "@type": "Organization", "name": "CAEF - Communautés et Assemblées Évangéliques de France", "url": "https://www.caef.net/" },
     { "@type": "Organization", "name": "Réseau FEF - Réseau Fraternel Évangélique Français", "url": "https://reseaufef.com/" },
